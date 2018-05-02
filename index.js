@@ -13,6 +13,7 @@ function johnLennonFacts(array)
   while(i < array.length)
   {
     array[i] = array[i] + "!!!";
+<<<<<<< HEAD
     i++;
   }
   return array;
@@ -27,4 +28,8 @@ function iLoveTheBeatles(int)
   }
   while(int < 15)
   return newArray;
+=======
+  }
+  return array;
+>>>>>>> f6137e8f3b19f5809b5f62d59755679f6e3bce70
 }
